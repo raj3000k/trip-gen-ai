@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">JourneyJolt</h1 >
   
-    <img src="https://i.ibb.co/YLK0qVx/image.png" style="border-radius: 10px;" alt="Logo" width="" height="250">
+   
   </a>
 
   <h3>AI-Based Trip Planner</h3>
