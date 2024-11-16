@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">JourneyJolt</h1 >
-  <a href="https://trip-planner-by-satendra.vercel.app/" target="_blank">
+  
     <img src="https://i.ibb.co/YLK0qVx/image.png" style="border-radius: 10px;" alt="Logo" width="" height="250">
   </a>
 
